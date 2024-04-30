@@ -1,4 +1,9 @@
 message for the first file is render 
 
 
+<<<<<<< HEAD
 git master graph cheking 
+=======
+
+cheking feature commitment 
+>>>>>>> feature
